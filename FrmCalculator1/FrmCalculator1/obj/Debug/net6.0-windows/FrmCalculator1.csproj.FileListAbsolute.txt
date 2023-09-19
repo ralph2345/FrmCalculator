@@ -1,0 +1,17 @@
+C:\Users\Suarez.253740\Source\Repos\FrmCalculator1\FrmCalculator1\bin\Debug\net6.0-windows\FrmCalculator1.exe
+C:\Users\Suarez.253740\Source\Repos\FrmCalculator1\FrmCalculator1\bin\Debug\net6.0-windows\FrmCalculator1.deps.json
+C:\Users\Suarez.253740\Source\Repos\FrmCalculator1\FrmCalculator1\bin\Debug\net6.0-windows\FrmCalculator1.runtimeconfig.json
+C:\Users\Suarez.253740\Source\Repos\FrmCalculator1\FrmCalculator1\bin\Debug\net6.0-windows\FrmCalculator1.dll
+C:\Users\Suarez.253740\Source\Repos\FrmCalculator1\FrmCalculator1\bin\Debug\net6.0-windows\FrmCalculator1.pdb
+C:\Users\Suarez.253740\Source\Repos\FrmCalculator1\FrmCalculator1\obj\Debug\net6.0-windows\FrmCalculator1.csproj.AssemblyReference.cache
+C:\Users\Suarez.253740\Source\Repos\FrmCalculator1\FrmCalculator1\obj\Debug\net6.0-windows\FrmCalculator1.Form1.resources
+C:\Users\Suarez.253740\Source\Repos\FrmCalculator1\FrmCalculator1\obj\Debug\net6.0-windows\FrmCalculator1.csproj.GenerateResource.cache
+C:\Users\Suarez.253740\Source\Repos\FrmCalculator1\FrmCalculator1\obj\Debug\net6.0-windows\FrmCalculator1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suarez.253740\Source\Repos\FrmCalculator1\FrmCalculator1\obj\Debug\net6.0-windows\FrmCalculator1.AssemblyInfoInputs.cache
+C:\Users\Suarez.253740\Source\Repos\FrmCalculator1\FrmCalculator1\obj\Debug\net6.0-windows\FrmCalculator1.AssemblyInfo.cs
+C:\Users\Suarez.253740\Source\Repos\FrmCalculator1\FrmCalculator1\obj\Debug\net6.0-windows\FrmCalculator1.csproj.CoreCompileInputs.cache
+C:\Users\Suarez.253740\Source\Repos\FrmCalculator1\FrmCalculator1\obj\Debug\net6.0-windows\FrmCalculator1.dll
+C:\Users\Suarez.253740\Source\Repos\FrmCalculator1\FrmCalculator1\obj\Debug\net6.0-windows\refint\FrmCalculator1.dll
+C:\Users\Suarez.253740\Source\Repos\FrmCalculator1\FrmCalculator1\obj\Debug\net6.0-windows\FrmCalculator1.pdb
+C:\Users\Suarez.253740\Source\Repos\FrmCalculator1\FrmCalculator1\obj\Debug\net6.0-windows\FrmCalculator1.genruntimeconfig.cache
+C:\Users\Suarez.253740\Source\Repos\FrmCalculator1\FrmCalculator1\obj\Debug\net6.0-windows\ref\FrmCalculator1.dll
